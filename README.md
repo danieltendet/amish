@@ -1,1 +1,1 @@
-# amish
+# wait for site to load
